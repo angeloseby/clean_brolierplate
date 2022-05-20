@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- Here You Can Specify the Hex Code for replacing
+the white screen before app starts -->
+<color name="primary">#F3F3F3</color>
+</resources>
